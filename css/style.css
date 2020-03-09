@@ -1,0 +1,10 @@
+.cbox {
+    border: 3px solid;
+    height: 500px;
+}
+
+.dbox {
+    /* background-color: red; */
+    /* height: 30px; */
+    border: 1px solid blue;
+}
