@@ -1,6 +1,13 @@
-div > div {
-    border: 1px solid;
+.row div{
+    border: 1px solid coral;
+    background-color: rgb(219, 185, 185);
 }
-.container {
 
-}
+
+
+
+
+
+
+
+
